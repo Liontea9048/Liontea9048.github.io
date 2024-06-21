@@ -10,7 +10,8 @@ Mar. 2017 - Feb. 2021 | B.S, in Nuclear Engineering, Sejong University, South Ko
 
 ### Conferences
 ---
-Nov. 2021 | Estimation of External Exposure for a Radiological Worker Operating Well-Logging Instrument Using Mesh-type Reference Computational Phantoms (MRCPs), The Korean Association for Radiation Protection (KARP), South Korea  
+<div style="text-indent: 2em;">
+Nov. 2021 | Estimation of External Exposure for a Radiological Worker Operating Well-Logging Instrument Using Mesh-type Reference Computational Phantoms (MRCPs), The Korean Association for Radiation Protection (KARP), South Korea  </div>
 Feb. 2022 | Effective Dose Calculation Using MRCPs for Radiological Workers in Geophysics Research, IEEE NPSS Seoul Chapter, South Korea  
 Apr. 2022 | Dose Assessment for External Exposure of Workers Using Well-logging Sonde, Korean Society of Earth and Exploration Geophysicists (KSEG), South Korea  
 Nov. 2022 | Dose Assessment of Workers Depending on Postures Operating Well-Logging Instrument, IEEE NSS MIC RTSD, Milano, Italy  
