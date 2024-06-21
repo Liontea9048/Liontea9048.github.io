@@ -28,3 +28,22 @@ Feb. 2022 | Outstanding Presenatation Award, IEEE NPSS Seoul Chapter
 ---
 Mar. 2023 - Aug. 2024 | Completed 2<sup>nd</sup> Semester, including leave of absences for 6 months
 
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 20%; font-weight: bold;">
+    Ph.D.
+  </div>
+  <div style="width: 75%;">
+    <p>2015년 ~ 2020년</p>
+    <p>서울대학교 컴퓨터공학부</p>
+    <p>연구 주제: 인공지능 및 머신러닝</p>
+    <p>주요 성과: 
+      <ul>
+        <li>딥러닝 모델 개발 및 최적화</li>
+        <li>국제 학술지 논문 게재</li>
+        <li>국제 학회 발표</li>
+      </ul>
+    </p>
+  </div>
+</div>
+
+
