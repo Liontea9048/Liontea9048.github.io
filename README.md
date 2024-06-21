@@ -25,5 +25,5 @@ Feb. 2022 | Outstanding Presenatation Award, IEEE NPSS Seoul Chapter
 
 ### Others
 ---
-Mar. 2023 - Aug. 2024 | Completed 2^{nd} Semester, including leave of absences for 6 months
+Mar. 2023 - Aug. 2024 | Completed <sup>2</sup> Semester, including leave of absences for 6 months
 
