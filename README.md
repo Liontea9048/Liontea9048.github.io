@@ -6,7 +6,7 @@ e-mail: <a href='mailto:hsb9048@snu.ac.kr'>hsb9048@snu.ac.kr
 ### Educations
 ---
 * Master &nbsp;&nbsp; Seoul National University, South Korea (Mar. 2021 - Feb. 2023), Nuclear Engineering
-* B.S. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sejong University, South Korea (Mar. 2017 - Feb. 2021), Nuclear Engineering
+* B.S. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sejong University, South Korea (Mar. 2017 - Feb. 2021), Nuclear Engineering
 
 ### Conferences
 ---
