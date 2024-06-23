@@ -50,7 +50,7 @@ Nuclear Engineering (Mar. 2017 - Feb. 2021)
 - **Feb. 2022**: Outstanding Presentation Award, IEEE NPSS Seoul Chapter
 
 ## Internships
-1. **Seoul National University Nuclear Science**  
+1. **Seoul National University Nuclear Science Group**  
    Advisor: Prof. Gee-hyun Kim  
    (Sep. 2020 - Feb. 2021), Seoul National University, South Korea  
 2. **Radiological Science Laboratory**  
