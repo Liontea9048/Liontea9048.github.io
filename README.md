@@ -11,19 +11,19 @@ Looking for an opportunities for me to go beyound my limits. I am a sponge, and 
 
 ### Skills
 ---
-** Programming Languages **
+* Programming Languages *
 - Python (Advanced)
 - C/C++ (Advanced)
 
-** Simulation Codes Based on Monte-Carlo **
+* Simulation Codes Based on Monte-Carlo *
 - GEANT4 (Advanced)
 - MCNP6 (Intermediate)
 - PHITS (Intermediate)
 
-** Databases **
+* Databases *
 - PostgreSQL
   
-** Frameworks and Tools **
+* Frameworks and Tools *
 - Git
 - Pytorch 
 - TensorFlow 
