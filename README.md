@@ -11,19 +11,19 @@ Looking for an opportunities for me to go beyound my limits. I am a sponge, and 
 
 ### Skills
 ---
-* Programming Languages *
+**Programming Languages**
 - Python (Advanced)
 - C/C++ (Advanced)
 
-* Simulation Codes Based on Monte-Carlo *
+**Simulation Codes Based on Monte-Carlo**
 - GEANT4 (Advanced)
 - MCNP6 (Intermediate)
 - PHITS (Intermediate)
 
-* Databases *
+**Databases**
 - PostgreSQL
   
-* Frameworks and Tools *
+**Frameworks and Tools**
 - Git
 - Pytorch 
 - TensorFlow 
@@ -36,7 +36,8 @@ Looking for an opportunities for me to go beyound my limits. I am a sponge, and 
 * 1. Nov. 2022 &nbsp;&nbsp; Dose Assessment of Workers Depending on Postures Operating Well-Logging Instrument, IEEE NSS MIC RTSD, Milano, Italy  
 * 2. Apr. 2022 &nbsp;&nbsp; Dose Assessment for External Exposure of Workers Using Well-logging Sonde, Korean Society of Earth and Exploration Geophysicists (KSEG), South Korea  
 * 3. Feb. 2022 &nbsp;&nbsp; Effective Dose Calculation Using MRCPs for Radiological Workers in Geophysics Research, IEEE NPSS Seoul Chapter, South Korea  
-* 4. Nov. 2021 &nbsp;&nbsp; Estimation of External Exposure for a Radiological Worker Operating Well-Logging Instrument Using Mesh-type Reference Computational Phantoms (MRCPs), The Korean Association for Radiation Protection (KARP), South Korea 
+* 4. Nov. 2021 &nbsp;&nbsp; Estimation of External Exposure for a Radiological Worker Operating Well-Logging Instrument Using Mesh-type Reference Computational Phantoms (MRCPs), The Korean Association for Radiation Protection (KARP), South Korea
+* 5. Aug. 2020 &nbsp;&nbsp; 2020 Online International Conference on Nuclear Noproliferation, KAIST NEREC, Nonproliferation Education and Research Center, South Korea
 
 ### Publications
 ---
@@ -54,3 +55,4 @@ Looking for an opportunities for me to go beyound my limits. I am a sponge, and 
 ### Others
 ---
 * Mar. 2023 - Aug. 2024 &nbsp;&nbsp; Completed 2 semester, including leave of absences for one semester
+* Jul. 2020 - Aug. 2020 &nbsp;&nbsp; Participated in KAIST NEREC as young fellows
