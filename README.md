@@ -1,6 +1,4 @@
 # Hi, I am Sangbin Han
-<img src="https://github.com/Liontea9048/Liontea9048.github.io/blob/main/image.jpg" alt="img" width="200"/>
-// ![myImg](https://github.com/Liontea9048/Liontea9048.github.io/blob/main/image.jpg)
 Looking for opportunities to go beyond my limits. I am able to grasp new concepts quickly, and ebrace challenges. I have experiences in radiological science, especially radiation protection.
 
 ## Contact Information
