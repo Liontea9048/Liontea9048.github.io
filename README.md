@@ -1,4 +1,4 @@
-# Hi, I am Sangbin Han                M.S.                                                       June 24, 2024
+<span stype="color: #808080">*Last update: June 24, 2024*</span>
 Looking for opportunities to go beyond my limits. I am able to grasp new concepts quickly, and ebrace challenges. I have experiences in radiological science, especially radiation protection.
 
 ## Contact Information
