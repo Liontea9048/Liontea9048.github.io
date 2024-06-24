@@ -1,4 +1,4 @@
-# Hi, I am Sangbin Han
+# Hi, I am Sangbin Han &nbsp&nbsp&nbsp&nbsp; M.S. &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp; June 24, 2024
 Looking for opportunities to go beyond my limits. I am able to grasp new concepts quickly, and ebrace challenges. I have experiences in radiological science, especially radiation protection.
 
 ## Contact Information
@@ -44,6 +44,7 @@ Nuclear Engineering (Mar. 2017 - Feb. 2021)
 5. **Aug. 2020**: 2020 Online International Conference on Nuclear Nonproliferation, KAIST NEREC, Nonproliferation Education and Research Center, South Korea  
 
 ## Publications
+### 2024
 - \[**Draft**\] Assessment of External Exposure of Workers Using a Radioactive Source in Geophysics Research [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4791462)
 
 ## Awards
