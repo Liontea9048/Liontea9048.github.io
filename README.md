@@ -1,4 +1,9 @@
 # Hi, I am Sangbin Han
+<p>
+  <img src="https://via.placeholder.com/150" alt="Sample Image" style="float: left; margin-right:10px;" />
+  GitHub README에 이미지와 텍스트를 나란히 배치할 때 유용한 방법입니다. HTML을 사용하여 이미지와 텍스트를 원하는 대로 배치할 수 있습니다.
+</p>
+
 ![myImg](https://github.com/Liontea9048/Liontea9048.github.io/blob/main/image.jpg)
 Looking for opportunities to go beyond my limits. I am able to grasp new concepts quickly, and ebrace challenges. I have experiences in radiological science, especially radiation protection.
 
