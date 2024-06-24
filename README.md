@@ -1,5 +1,5 @@
 # Hi, I am Sangbin Han
-Looking for opportunities to go beyond my limits. I am a sponge, and enjoy challenges. I have professional experience in radiological science.
+Looking for opportunities to go beyond my limits. I am able to grasp new concepts quickly, and ebrace challenges. I have experiences in radiological science, especially radiation protection. I am ready for any
 
 ## Contact Information
 - **E-mail**: <a href='mailto:hsb9048@snu.ac.kr'>hsb9048@snu.ac.kr</a>
@@ -18,7 +18,7 @@ Nuclear Engineering (Mar. 2017 - Feb. 2021)
 ## Skills
 ### Programming Languages
 - Python (Advanced)
-- C/C++ (Advanced)
+- C/C++ (Intermediate)
 
 ### Simulation Codes Based on Monte-Carlo
 - GEANT4 (Advanced)
