@@ -1,38 +1,34 @@
 # Hi, I am Sangbin Han
 Looking for opportunities to go beyond my limits. I am able to grasp new concepts quickly, and ebrace challenges. I have experiences in radiological science, especially radiation protection.
 
-
-
-
-  
 ## Contact Information
 - **E-mail**: <a href='mailto:hsb9048@snu.ac.kr'>hsb9048@snu.ac.kr</a>
 
 ## Education
-### Master of Science
+#### Master of Science
 **Seoul National University, South Korea**  
 Nuclear Engineering (Mar. 2021 - Feb. 2023)  
 **Advisor**: Prof. Gee-hyun Kim  
 [Thesis](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=e42530d41d5cb0b2ffe0bdc3ef48d419&keyword=한상빈)
 
-### Bachelor of Science
+#### Bachelor of Science
 **Sejong University, South Korea**  
 Nuclear Engineering (Mar. 2017 - Feb. 2021)
 
 ## Skills
-### Programming Languages
+#### Programming Languages
 - Python (Advanced)
 - C/C++ (Intermediate)
 
-### Simulation Codes Based on Monte-Carlo
+#### Simulation Codes Based on Monte-Carlo
 - GEANT4 (Advanced)
 - MCNP6 (Intermediate)
 - PHITS (Intermediate)
 
-### Databases
+#### Databases
 - PostgreSQL
 
-### Frameworks and Tools
+#### Frameworks and Tools
 - Git
 - Pytorch
 - TensorFlow
