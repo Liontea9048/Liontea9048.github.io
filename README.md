@@ -1,6 +1,6 @@
-##### <span stype="color: #808080">*Last update: June 24, 2024*</span>  
+##### <span stype="color: #808080">*Last update: July 10, 2024*</span>  
 ---
-I am Looking for opportunities to go beyond my limits. I am able to grasp new concepts quickly, and ebrace challenges. I have experiences in radiological science, especially radiation protection.
+I am Looking for opportunities to go beyond my limits. I am able to grasp new concepts quickly, and embrace challenges. I have experiences in radiological science, especially radiation protection.
 
 ## Contact Information
 - **E-mail**: <a href='mailto:hsb9048@snu.ac.kr'>hsb9048@snu.ac.kr</a>
