@@ -3,7 +3,7 @@
 I am looking for opportunities to go beyond my limits. I am able to grasp new concepts quickly, and embrace challenges. I have experience in radiological science, especially radiation protection.
 
 ## Contact Information
-- **E-mail**: <a href='mailto:hsb9048@snu.ac.kr'>hsb9048@snu.ac.kr</a>
+- **E-mail**: <a href='mailto:sangbin.han43@gmail.com'>sangbin.han43@gmail.com</a>
 
 ## Education
 ### Master of Science
