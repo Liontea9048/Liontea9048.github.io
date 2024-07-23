@@ -1,6 +1,6 @@
 ##### <span stype="color: #808080">*Last update: July 10, 2024*</span>  
 ---
-I am looking for opportunities to go beyond my limits. I am able to grasp new concepts quickly, and embrace challenges. I have experience in radiological science, especially radiation protection.
+I am looking for opportunities to go beyond my limits. I am able to grasp new concepts quickly, and not afraid of challanges. I have experience in radiological science, especially radiation protection.
 
 ## Contact Information
 - **E-mail**: <a href='mailto:sangbin.han43@gmail.com'>sangbin.han43@gmail.com</a>
