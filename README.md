@@ -1,4 +1,4 @@
-##### <span stype="color: #808080">*Last update: July 10, 2024*</span>  
+##### <span stype="color: #808080">*Last update: June 18, 2025*</span>  
 ---
 I am looking for opportunities to go beyond my limits. I am able to grasp new concepts quickly, and not afraid of challanges. I have experience in radiological science, especially radiation protection.
 
@@ -38,11 +38,13 @@ Nuclear Engineering (Mar. 2017 – Feb. 2021)
 - MPI
 
 ## Conferences
-1. **Nov. 2022**: Dose Assessment of Workers Depending on Postures Operating Well-Logging Instrument, IEEE NSS MIC RTSD, Milano, Italy  
-2. **Apr. 2022**: Dose Assessment for External Exposure of Workers Using Well-logging Sonde, Korean Society of Earth and Exploration Geophysicists (KSEG), South Korea  
-3. **Feb. 2022**: Effective Dose Calculation Using MRCPs for Radiological Workers in Geophysics Research, IEEE NPSS Seoul Chapter, South Korea  
-4. **Nov. 2021**: Estimation of External Exposure for a Radiological Worker Operating Well-Logging Instrument Using Mesh-type Reference Computational Phantoms (MRCPs), The Korean Association for Radiation Protection (KARP), South Korea  
-5. **Aug. 2020**: 2020 Online International Conference on Nuclear Nonproliferation, KAIST NEREC, Nonproliferation Education and Research Center, South Korea  
+- **May. 2025**: Preliminary Study on Advanced Dose Assessment Methodology for Clearance of Radioactive Waste, Korea Radioactive Waste Society, South Korea
+- **May. 2025**: A Study on Overseas Technical Standards for the Design of a Korea-Type Interim Storage Facility for High-Level Radioactive Waste Disposal, Korea Radioactive Waste Society, South Korea
+- **Nov. 2022**: Dose Assessment of Workers Depending on Postures Operating Well-Logging Instrument, IEEE NSS MIC RTSD, Milano, Italy  
+- **Apr. 2022**: Dose Assessment for External Exposure of Workers Using Well-logging Sonde, Korean Society of Earth and Exploration Geophysicists (KSEG), South Korea  
+- **Feb. 2022**: Effective Dose Calculation Using MRCPs for Radiological Workers in Geophysics Research, IEEE NPSS Seoul Chapter, South Korea  
+- **Nov. 2021**: Estimation of External Exposure for a Radiological Worker Operating Well-Logging Instrument Using Mesh-type Reference Computational Phantoms (MRCPs), The Korean Association for Radiation Protection (KARP), South Korea  
+- **Aug. 2020**: 2020 Online International Conference on Nuclear Nonproliferation, KAIST NEREC, Nonproliferation Education and Research Center, South Korea  
 
 ## Publications
 ### 2024
