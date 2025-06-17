@@ -5,6 +5,10 @@ I am looking for opportunities to go beyond my limits. I am able to grasp new co
 ## Contact Information
 - **E-mail**: <a href='mailto:sangbin.han43@gmail.com'>sangbin.han43@gmail.com</a>
 
+## Affiliation
+**BRNC INC**
+Researcher at Research Center of BRNC INC (Sep. 2024 – current)
+
 ## Education
 ### Master of Science
 **Seoul National University, South Korea**  
@@ -15,6 +19,10 @@ Nuclear Engineering (Mar. 2021 – Feb. 2023)
 ### Bachelor of Science
 **Sejong University, South Korea**  
 Nuclear Engineering (Mar. 2017 – Feb. 2021)
+
+### Course Works
+**Seoul National University(Graduate School of Data Science), South Korea**  
+Data Science (Mar. 2023 – Aug. 2024)
 
 ## Skills
 #### Programming Languages
