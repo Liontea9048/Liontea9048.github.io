@@ -1,9 +1,10 @@
-##### <span stype="color: #808080">*Last update: June 18, 2025*</span>  
+##### <span stype="color: #808080">*Last update: August 14th, 2025*</span>  
 ---
-I am looking for opportunities to go beyond my limits. I am able to grasp new concepts quickly, and not afraid of challanges. I have experience in radiological science, especially radiation protection.
+I am looking for opportunities to go beyond my limits. I am able to grasp new concepts quickly, and not afraid of challanges. I have experience in radiological science, especially radiation protection, data science.
+Beginner of Clearance, Writing of Safety Analysis Report(SAR), Radiological Impact on the Environment Review(RER).
 
 ## Contact Information
-- **E-mail**: <a href='mailto:sangbin.han43@gmail.com'>sangbin.han43@gmail.com</a>
+- **E-mail**: <a href='mailto:gkstkdqls159@gmail.com'>gkstkdqls159@gmail.com</a>
 
 ## Affiliation
 **BRNC INC**
@@ -33,6 +34,8 @@ Data Science (Mar. 2023 – Aug. 2024)
 - GEANT4 (Advanced)
 - MCNP6 (Intermediate)
 - PHITS (Intermediate)
+- NRCDose3; GASPAR/LADTAP (Beginner ~ Intermediate)
+- RESRAD-ONSITE (Beginner ~ Intermediate)
 
 #### Databases
 - PostgreSQL
