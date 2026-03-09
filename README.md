@@ -1,4 +1,4 @@
-##### <span stype="color: #808080">*Last update: August 14th, 2025*</span>  
+##### <span stype="color: #808080">*Last update: March 09th, 2026*</span>  
 ---
 I am looking for opportunities to go beyond my limits. I am able to grasp new concepts quickly, and not afraid of challanges. I have experience in radiological science, especially radiation protection, data science.
 Beginner of Clearance, Writing of Safety Analysis Report(SAR), Radiological Impact on the Environment Review(RER).
