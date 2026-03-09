@@ -38,6 +38,14 @@ Data Science (Mar. 2023 – Aug. 2024)
 ### 2024
 - Assessment of External Exposure of Workers Using a Radioactive Source in Geophysics Research [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4791462)
 
+## Working Experiences
+### BRnC
+- **Nov. 2025 ~ current**: Supporting the Preparation of Licensing Documents (SAR, RER) for Nuclear Infrastructure at GAMPO [KAERI]
+- **Oct. 2025 ~ Dec. 2025**: MCNP Simulation and Machine Learning Dataset Construction for LEM Model [KNF]
+- **Aug. 2025 ~ Dec. 2025**: Revision of Radiological Environmental Report (RER) for Nuclear Fuel Fabrication Facility [KNF]
+- **May. 2025 ~ Dec. 2025**: Evaluating Radiological Impacts of High-Level Radioactive Waste Transport [KORAD]
+- **Sep. 2024 ~ current**: Designing Final Status Survey for Gori 1 / Wolsong 1 Site [CRI]
+
 ## Awards
 - **Feb. 2022**: Outstanding Presentation Award, IEEE NPSS Seoul Chapter
 
@@ -71,14 +79,6 @@ Data Science (Mar. 2023 – Aug. 2024)
 - CUDA
 - OpenCL
 - MPI
-
-## Working Experiences
-### BRnC
-- **Nov. 2025 ~**: Supporting the Preparation of Licensing Documents (SAR, RER) for Nuclear Infrastructure at GAMPO [KAERI]
-- **Oct. 2025 ~ Dec. 2025**: MCNP Simulation and Machine Learning Dataset Construction for LEM Model [KNF]
-- **Aug. 2025 ~ Dec. 2025**: Revision of Radiological Environmental Report (RER) for Nuclear Fuel Fabrication Facility [KNF]
-- **May. 2025 ~ Dec. 2025**: Evaluating Radiological Impacts of High-Level Radioactive Waste Transport [KORAD]
-- **Sep. 2024 ~**: Designing Final Status Survey for Gori 1 / Wolsong 1 Site [CRI]
 
 ## Others
 - **Mar. 2023 - Aug. 2024**: Completed 2 semesters, including a leave of absence for one semester
