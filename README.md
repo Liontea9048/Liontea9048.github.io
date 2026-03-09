@@ -25,6 +25,30 @@ Nuclear Engineering (Mar. 2017 – Feb. 2021)
 **Seoul National University(Graduate School of Data Science), South Korea**  
 Data Science (Mar. 2023 – Aug. 2024)
 
+## Conferences
+- **May. 2025**: Preliminary Study on Advanced Dose Assessment Methodology for Clearance of Radioactive Waste, Korea Radioactive Waste Society, South Korea
+- **May. 2025**: A Study on Overseas Technical Standards for the Design of a Korea-Type Interim Storage Facility for High-Level Radioactive Waste Disposal, Korea Radioactive Waste Society, South Korea
+- **Nov. 2022**: Dose Assessment of Workers Depending on Postures Operating Well-Logging Instrument, IEEE NSS MIC RTSD, Milano, Italy. 
+- **Apr. 2022**: Dose Assessment for External Exposure of Workers Using Well-logging Sonde, Korean Society of Earth and Exploration Geophysicists (KSEG), South Korea. (방사선원을 사용하는 지구물리검층 작업 수행자에 대한 외부 피폭 선량 평가 연구, 한상빈)
+- **Feb. 2022**: Effective Dose Calculation Using MRCPs for Radiological Workers in Geophysics Research, IEEE NPSS Seoul Chapter, South Korea.
+- **Nov. 2021**: Estimation of External Exposure for a Radiological Worker Operating Well-Logging Instrument Using Mesh-type Reference Computational Phantoms (MRCPs), The Korean Association for Radiation Protection (KARP), South Korea. (Mesh-type Reference Computational Phantoms(MRCPs)를 활용한 지층 검층 존데 사용 작업자의 외부 피폭 선량 계산 및 상호 비교, 한상빈)
+- **Aug. 2020**: 2020 Online International Conference on Nuclear Nonproliferation, KAIST NEREC, Nonproliferation Education and Research Center, South Korea
+
+## Publications
+### 2024
+- Assessment of External Exposure of Workers Using a Radioactive Source in Geophysics Research [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4791462)
+
+## Awards
+- **Feb. 2022**: Outstanding Presentation Award, IEEE NPSS Seoul Chapter
+
+## Internships
+1. **Seoul National University Nuclear Science Group**  
+   Advisor: Prof. Gee-hyun Kim  
+   (Sep. 2020 - Feb. 2021), Seoul National University, South Korea  
+2. **Radiological Science Laboratory**  
+   Advisor: Prof. Gee-hyun Kim  
+   (Nov. 2019 - Aug. 2020), Sejong University, South Korea
+
 ## Skills
 #### Programming Languages
 - Python (Advanced)
@@ -48,29 +72,13 @@ Data Science (Mar. 2023 – Aug. 2024)
 - OpenCL
 - MPI
 
-## Conferences
-- **May. 2025**: Preliminary Study on Advanced Dose Assessment Methodology for Clearance of Radioactive Waste, Korea Radioactive Waste Society, South Korea
-- **May. 2025**: A Study on Overseas Technical Standards for the Design of a Korea-Type Interim Storage Facility for High-Level Radioactive Waste Disposal, Korea Radioactive Waste Society, South Korea
-- **Nov. 2022**: Dose Assessment of Workers Depending on Postures Operating Well-Logging Instrument, IEEE NSS MIC RTSD, Milano, Italy. 
-- **Apr. 2022**: Dose Assessment for External Exposure of Workers Using Well-logging Sonde, Korean Society of Earth and Exploration Geophysicists (KSEG), South Korea. (방사선원을 사용하는 지구물리검층 작업 수행자에 대한 외부 피폭 선량 평가 연구, 한상빈)
-- **Feb. 2022**: Effective Dose Calculation Using MRCPs for Radiological Workers in Geophysics Research, IEEE NPSS Seoul Chapter, South Korea.
-- **Nov. 2021**: Estimation of External Exposure for a Radiological Worker Operating Well-Logging Instrument Using Mesh-type Reference Computational Phantoms (MRCPs), The Korean Association for Radiation Protection (KARP), South Korea. (Mesh-type Reference Computational Phantoms(MRCPs)를 활용한 지층 검층 존데 사용 작업자의 외부 피폭 선량 계산 및 상호 비교, 한상빈)
-- **Aug. 2020**: 2020 Online International Conference on Nuclear Nonproliferation, KAIST NEREC, Nonproliferation Education and Research Center, South Korea
-
-## Publications
-### 2024
-- \[**Draft**\] Assessment of External Exposure of Workers Using a Radioactive Source in Geophysics Research [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4791462)
-
-## Awards
-- **Feb. 2022**: Outstanding Presentation Award, IEEE NPSS Seoul Chapter
-
-## Internships
-1. **Seoul National University Nuclear Science Group**  
-   Advisor: Prof. Gee-hyun Kim  
-   (Sep. 2020 - Feb. 2021), Seoul National University, South Korea  
-2. **Radiological Science Laboratory**  
-   Advisor: Prof. Gee-hyun Kim  
-   (Nov. 2019 - Aug. 2020), Sejong University, South Korea
+## Working Experiences
+### BRnC
+- **Nov. 2025 ~**: Supporting the Preparation of Licensing Documents (SAR, RER) for Nuclear Infrastructure at GAMPO [KAERI]
+- **Oct. 2025 ~ Dec. 2025**: MCNP Simulation and Machine Learning Dataset Construction for LEM Model [KNF]
+- **Aug. 2025 ~ Dec. 2025**: Revision of Radiological Environmental Report (RER) for Nuclear Fuel Fabrication Facility [KNF]
+- **May. 2025 ~ Dec. 2025**: Evaluating Radiological Impacts of High-Level Radioactive Waste Transport [KORAD]
+- **Sep. 2024 ~**: Designing Final Status Survey for Gori 1 / Wolsong 1 Site [CRI]
 
 ## Others
 - **Mar. 2023 - Aug. 2024**: Completed 2 semesters, including a leave of absence for one semester
