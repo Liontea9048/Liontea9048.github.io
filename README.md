@@ -25,7 +25,7 @@ Nuclear Engineering (Mar. 2017 – Feb. 2021)
 **Seoul National University(Graduate School of Data Science), South Korea**  
 Data Science (Mar. 2023 – Aug. 2024)
 - **Mar. 2023 - Aug. 2024**: Completed 2 semesters, including a leave of absence for one semester
-- 
+
 ## Conferences
 - **May. 2025**: Preliminary Study on Advanced Dose Assessment Methodology for Clearance of Radioactive Waste, Korea Radioactive Waste Society, South Korea
 - **May. 2025**: A Study on Overseas Technical Standards for the Design of a Korea-Type Interim Storage Facility for High-Level Radioactive Waste Disposal, Korea Radioactive Waste Society, South Korea
